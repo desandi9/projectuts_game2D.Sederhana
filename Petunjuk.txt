@@ -1,0 +1,24 @@
+PROJECT UTS SQUARE 2D GAME SEDERHANA
+ 
+Nama dan NPM : 
+1. Desandi Herdiansyah (24072123050)
+2. Moch Rifqi Putra W.R (24072123055)
+3. Pungki Sopian (24072123057)
+
+Pengembang ide Game : Desandi, Rifqi, Pungki
+sumber Code : ChatGpt
+editor Code : Desandi
+Laporan : Desandi, Rifqi, Pungki
+
+
+PETUNJUK:
+1. open terminal
+2. install modul
+   pip install pygame
+3. jalankan game
+
+Coba juga file yang Game + modul
+file ini akan otomatis install modul dan menjalankan game
+
+
+~Terima Kasih~
